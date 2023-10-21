@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Downtown &#8211; Real Estate </title>
+	<atom:link href="http://localhost/location/dubai/downtown/feed/?simply_static_page=1417" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description></description>
+	<lastBuildDate>Mon, 09 Oct 2023 01:21:57 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.3.2</generator>
+	<item>
+		<title>Burj Khalifa Top floor</title>
+		<link>/properties/burj-khalifa-top-floor/</link>
+		
+		<dc:creator><![CDATA[qwerty]]></dc:creator>
+		<pubDate>Fri, 06 Oct 2023 00:58:19 +0000</pubDate>
+				<category><![CDATA[Apartments]]></category>
+		<guid isPermaLink="false">/?post_type=properties#038;p=8</guid>
+
+					<description><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla faucibus condimentum lacus sed bibendum. Donec in leo sit amet leo aliquam posuere. Nulla id venenatis tortor, et congue diam. In efficitur magna ac nisl viverra, at maximus purus aliquet. Vestibulum commodo et dui quis gravida. Praesent vitae felis aliquam felis molestie sagittis ac a ligula. [&#8230;]]]></description>
+										<content:encoded><![CDATA[
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla faucibus condimentum lacus sed bibendum. Donec in leo sit amet leo aliquam posuere. Nulla id venenatis tortor, et congue diam. In efficitur magna ac nisl viverra, at maximus purus aliquet. Vestibulum commodo et dui quis gravida. Praesent vitae felis aliquam felis molestie sagittis ac a ligula. Vivamus vehicula turpis quis venenatis tincidunt. Fusce auctor id urna a bibendum. Praesent ornare aliquam purus, nec vehicula sapien gravida in. Sed posuere blandit tempor. Curabitur sagittis, nulla vitae rhoncus maximus, dui tortor egestas eros, ut tempor felis nibh et augue. Nam lacinia maximus lectus, eget tincidunt urna aliquet vitae. Morbi in leo non odio finibus ullamcorper. Sed malesuada, nisi non vulputate scelerisque, dolor nunc congue massa, vitae consequat lacus eros quis arcu. Cras vitae interdum massa.</p>
+
+
+
+<p>Donec viverra, odio vel vehicula convallis, ex diam lacinia ligula, in iaculis est lacus ac turpis. Vivamus sagittis nisl tellus, sit amet egestas ante tincidunt sed. Suspendisse eu tortor ut nisi auctor scelerisque eget in turpis. Donec arcu sem, sollicitudin in congue id, vestibulum eget ligula. Vestibulum lacinia dui ex, in pulvinar lectus mattis a. Integer in ultrices purus, non lobortis velit. Vestibulum sed venenatis ex. Nam at erat sapien. Donec vehicula justo id fermentum aliquet. Suspendisse potenti. Vivamus eros leo, elementum ac ullamcorper in, ultrices eu ante. Ut ac eleifend urna. Vestibulum a ante sed felis tincidunt fermentum ullamcorper vitae ex. Sed interdum est ac tincidunt viverra. Aliquam ac suscipit est, sit amet rutrum mi.</p>
+
+
+
+<p>Fusce nec condimentum nisl. Phasellus lobortis, justo in commodo tempus, odio purus sagittis ligula, ac gravida dolor dolor venenatis metus. Quisque ac orci gravida, ullamcorper eros non, euismod ipsum. Integer fringilla neque eu blandit varius. Integer varius metus at quam pulvinar imperdiet. Proin efficitur vehicula sem, a vehicula enim rhoncus at. Morbi et sem quis massa blandit tincidunt eu ut nunc. Cras vulputate ante vitae turpis pharetra, ac mattis nunc consequat. Mauris id mattis neque. Pellentesque nulla libero, vulputate id ornare id, aliquet eget tellus. Etiam sodales, risus ac laoreet accumsan, nisl neque dictum magna, sit amet condimentum sapien enim at magna.</p>
+
+
+
+<p>Donec ipsum sem, viverra sed feugiat sit amet, luctus ut est. Ut sodales commodo auctor. Aenean ex erat, bibendum quis ligula ac, blandit convallis lorem. Pellentesque dignissim tellus at purus luctus sollicitudin. Fusce imperdiet cursus ornare. Aliquam tempus urna a sem euismod, ut interdum nisl vulputate. Etiam fermentum, nisi vitae interdum tempor, nunc libero commodo lorem, pulvinar interdum orci ante a risus. Cras a eros eu odio mollis pellentesque. Ut scelerisque felis et nisi consequat varius. Integer a lorem ut mauris tempor interdum quis tristique dui. Quisque libero orci, imperdiet eu mollis eu, rhoncus et nibh. Duis posuere orci odio, vel auctor metus semper non. Curabitur eget magna elementum, consequat nunc non, consectetur diam. Nunc sagittis congue ex.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>
