@@ -8,11 +8,11 @@
 	>
 
 <channel>
-	<title>Jumeira &#8211; Real Estate </title>
-	<atom:link href="http://localhost/location/dubai/jumeira/feed/?simply_static_page=2908" rel="self" type="application/rss+xml" />
+	<title>Bur Dubai &#8211; Real Estate </title>
+	<atom:link href="http://localhost/location/dubai/bur-dubai/feed/?simply_static_page=2902" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description></description>
-	<lastBuildDate>Wed, 11 Oct 2023 00:21:40 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 13 Oct 2023 00:41:32 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -20,19 +20,15 @@
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=6.3.2</generator>
 	<item>
-		<title>Jumeirah Beach Cottages</title>
-		<link>/properties/jumeirah-beach-cottages/</link>
+		<title>12th Floor Apartment Near Bus Station</title>
+		<link>/properties/12th-floor-apartment-near-bus-station/</link>
 		
 		<dc:creator><![CDATA[qwerty]]></dc:creator>
-		<pubDate>Wed, 11 Oct 2023 00:20:23 +0000</pubDate>
-				<guid isPermaLink="false">/?post_type=properties#038;p=156</guid>
+		<pubDate>Wed, 11 Oct 2023 00:44:45 +0000</pubDate>
+				<guid isPermaLink="false">/?post_type=properties#038;p=175</guid>
 
 					<description><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras at semper quam, quis scelerisque nisl. Integer et consectetur nisl, sed commodo diam. Vivamus suscipit commodo tortor, sit amet hendrerit nulla. Proin consectetur rhoncus urna. Morbi pharetra maximus augue quis commodo. Curabitur sollicitudin mi purus, quis consequat nibh iaculis ut. Aenean vitae libero interdum orci sodales [&#8230;]]]></description>
 										<content:encoded><![CDATA[
-<p><a href="https://ads.freestar.com/?utm_campaign=branding&amp;utm_medium=banner&amp;utm_source=lipsum.com&amp;utm_content=lipsumcom_right_siderail" target="_blank" rel="noreferrer noopener"></a></p>
-
-
-
 <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras at semper quam, quis scelerisque nisl. Integer et consectetur nisl, sed commodo diam. Vivamus suscipit commodo tortor, sit amet hendrerit nulla. Proin consectetur rhoncus urna. Morbi pharetra maximus augue quis commodo. Curabitur sollicitudin mi purus, quis consequat nibh iaculis ut. Aenean vitae libero interdum orci sodales vehicula vel eget tellus. Nunc pretium metus lectus, in ultricies nulla ornare id. Duis nibh diam, posuere vel dolor ut, interdum bibendum ex. Etiam faucibus risus ac pellentesque convallis. Donec eu sapien lorem. Integer consectetur at justo ut bibendum. Sed ut vulputate nulla.</p>
 
 
@@ -46,22 +42,18 @@
 
 
 <p>Duis sit amet mi quam. Aenean nec placerat odio. Proin semper ultric</p>
-
-
-
-<p></p>
 ]]></content:encoded>
 					
 		
 		
 			</item>
 		<item>
-		<title>5th Floor JBL Near Beach</title>
-		<link>/properties/5th-floor-jbl-near-beach/</link>
+		<title>Bur Dubai Villa</title>
+		<link>/properties/bur-dubai-villa/</link>
 		
 		<dc:creator><![CDATA[qwerty]]></dc:creator>
-		<pubDate>Tue, 10 Oct 2023 01:51:23 +0000</pubDate>
-				<guid isPermaLink="false">/?post_type=properties#038;p=151</guid>
+		<pubDate>Tue, 10 Oct 2023 01:32:26 +0000</pubDate>
+				<guid isPermaLink="false">/?post_type=properties#038;p=133</guid>
 
 					<description><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ac tincidunt mi. Donec ipsum diam, varius nec odio at, maximus ultricies velit. In non neque vitae risus porta condimentum sit amet ut ex. Nunc mattis, est et auctor auctor, sapien ante cursus neque, sit amet auctor felis nisi id elit. Curabitur euismod purus nec lectus [&#8230;]]]></description>
 										<content:encoded><![CDATA[

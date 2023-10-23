@@ -7,9 +7,9 @@
 	>
 <channel>
 	<title>
-	Comments for Real Estate 	</title>
-	<atom:link href="http://localhost/comments/feed/?simply_static_page=2851" rel="self" type="application/rss+xml" />
-	<link>/</link>
+	Comments on: Hello world!	</title>
+	<atom:link href="http://localhost/hello-world/feed/?simply_static_page=2990" rel="self" type="application/rss+xml" />
+	<link>/hello-world/</link>
 	<description></description>
 	<lastBuildDate>Fri, 06 Oct 2023 00:49:30 +0000</lastBuildDate>
 	<sy:updatePeriod>
@@ -19,7 +19,7 @@
 	<generator>https://wordpress.org/?v=6.3.2</generator>
 	<item>
 		<title>
-		Comment on Hello world! by A WordPress Commenter		</title>
+		By: A WordPress Commenter		</title>
 		<link>/hello-world/#comment-1</link>
 
 		<dc:creator><![CDATA[A WordPress Commenter]]></dc:creator>
